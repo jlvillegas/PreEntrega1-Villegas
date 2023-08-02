@@ -1,8 +1,10 @@
-import React from 'react'
 
 function CartWidget() {
   return (
-    <div>CartWidget</div>
+    <div>
+      <i className="material-icons">shopping_cart</i>
+      <span>1</span>
+    </div>
   )
 }
 
